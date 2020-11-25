@@ -2,8 +2,10 @@ package com.github.morsstepan.ysu.moderntechnologies.converter.currencyexchange;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
+@EnableDiscoveryClient
 public class CurrencyConverterApplication {
 
 	public static void main(String[] args) {
