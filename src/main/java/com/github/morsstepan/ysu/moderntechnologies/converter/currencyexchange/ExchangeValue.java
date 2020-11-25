@@ -1,4 +1,4 @@
-package com.github.morsstepan.ysu.moderntechnologies.converter.currencyconverter;
+package com.github.morsstepan.ysu.moderntechnologies.converter.currencyexchange;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

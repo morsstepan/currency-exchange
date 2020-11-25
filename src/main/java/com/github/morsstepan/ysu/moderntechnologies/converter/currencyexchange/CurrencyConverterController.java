@@ -1,4 +1,4 @@
-package com.github.morsstepan.ysu.moderntechnologies.converter.currencyconverter;
+package com.github.morsstepan.ysu.moderntechnologies.converter.currencyexchange;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;

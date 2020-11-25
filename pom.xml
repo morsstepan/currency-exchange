@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.morsstepan.ysu.moderntechnologies.converter</groupId>
-	<artifactId>currency-converter</artifactId>
+	<artifactId>currency-exchange</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>currency-converter</name>
-	<description>Currency converter service </description>
+	<name>currency-exchange</name>
+	<description>Currency exchange service </description>
 
 	<properties>
 		<java.version>11</java.version>
